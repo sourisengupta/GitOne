@@ -1,4 +1,7 @@
 public void helloworld(){
+<<<<<<< HEAD
 	print ("Helloworld);
 	print ("Helloworld2);
+=======
+>>>>>>> parent of 73fec55... added a prinnt statement
 }
